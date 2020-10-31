@@ -3,8 +3,8 @@
 ### زهرا خان آبادی قهی
 
 ---
-- [حساب گیت هاب]https://https://github.com/zahrakhanabadi
-- [آدرس رزومه]https://zahrakhanabadi.github.io/zahrakhanabadi/
+- [حساب گیت هاب] https://https://github.com/zahrakhanabadi
+- [آدرس رزومه] https://zahrakhanabadi.github.io/zahrakhanabadi/
 - [sop]https://https://github.com/zahrakhanabadi/SOP
 
 
