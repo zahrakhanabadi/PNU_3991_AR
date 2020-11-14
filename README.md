@@ -6,6 +6,7 @@
 - [حساب گیت هاب](https://github.com/zahrakhanabadi)
 - [آدرس رزومه](https://zahrakhanabadi.github.io/)
 - [SOP](https://github.com/zahrakhanabadi/SOP)
+_ [CERTIFICATE]
 
 -------------------
 ## گروه ها
