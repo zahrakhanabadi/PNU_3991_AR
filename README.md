@@ -6,7 +6,7 @@
 - [حساب گیت هاب](https://github.com/zahrakhanabadi)
 - [آدرس رزومه](https://zahrakhanabadi.github.io/)
 - [SOP](https://github.com/zahrakhanabadi/SOP)
-- [CERTIFICATE] https://www.sololearn.com/Certificate/1024-20268636/pdf/?mode=download
+- [CERTIFICATE](https://www.sololearn.com/Certificate/1024-20268636/pdf/?mode=download)
 
 
 -------------------
