@@ -5,7 +5,7 @@
 ---
 - [حساب گیت هاب](https://github.com/zahrakhanabadi)
 - [آدرس رزومه](https://zahrakhanabadi.github.io/)
-- [SOP](https://github.com/zahrakhanabadi/SOP)
+- [SOP](https://zahrakhanabadi.github.io/SOP/)
 - [CERTIFICATE](https://www.sololearn.com/Certificate/1024-20268636/pdf/?mode=download)
 - [ارائه کتبی با لاتک](https://github.com/zahrakhanabadi/PNU_3991_AR/find/main)
 - [معرفی یک درس مشابه در دانشگاه های دیگر](https://faculty.kashanu.ac.ir/file/download/page/1507984571-presentation1-new.pdf)
