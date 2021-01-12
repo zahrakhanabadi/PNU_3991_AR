@@ -31,6 +31,11 @@
 [روش پژوهش وارائه02-1322010](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods)
 
 [پروژه فناوری اطلاعات01_1322035](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Project/1322035_01)
+-----------------
+## ارزیابی
+- [ارزیابی عمومی](https://github.com/zahrakhanabadi/PNU_3991_AR/blob/main/ZK-GeneralSection-CheckList-AR-3991%202.pdf)
+- [ارزیابی رزومه و انگیزه نامه](https://github.com/zahrakhanabadi/PNU_3991_AR/blob/main/z.k_CV_CheckList_AR_3991-1.pdf)
+- [ارزیابی روش پژوهش و ارائه](https://github.com/zahrakhanabadi/PNU_3991_AR/blob/main/z.k_ResearchAndPresentationMethods_CheckList_AR_3991-1.pdf)
 
 -----------------
 
